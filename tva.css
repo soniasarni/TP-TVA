@@ -1,0 +1,16 @@
+.container{
+	background: #CEF6EC;
+	text-align: center;
+}
+td{width: 354px;
+	padding: 25px;
+}
+   
+  input{
+  	margin:25px;
+  }
+
+label{margin:25px;
+  }
+	
+}
